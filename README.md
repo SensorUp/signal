@@ -25,15 +25,15 @@ The roadmap includes adding preference and blacklist features and automatic week
 
 **User daily menu**
 
-*As a user 
-I want to see an optimal daily menu
+*As a user  
+I want to see an optimal daily menu  
 so that I can improve my health*
 
 **Family daily menu**
 
-*As a family 
-I want to see an optimal daily menu for my family 
-And I want to a breakdown per family member
+*As a family   
+I want to see an optimal daily menu for my family   
+And I want to a breakdown per family member  
 So that I can improve the health of my family*
 
 # Data 
@@ -44,7 +44,7 @@ Open data from the [Canada Food Guide](https://open.canada.ca/data/en/dataset/e5
 
 Candidates are encouraged to provide this results on their personal Github profile `https://github.com/candidate/signal` as a public repo or alternatively a private repo.
 
-*If private please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators)*
+*If private please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators*
 
 
 
