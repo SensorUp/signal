@@ -42,9 +42,11 @@ Open data from the [Canada Food Guide](https://open.canada.ca/data/en/dataset/e5
 
 # Submissions
 
-Candidates are encouraged to provide this results on their personal Github profile `https://github.com/candidate/signal` as a public repo or alternatively a private repo.
+- Candidates are encouraged to provide these results on their personal Github profile `https://github.com/candidate/signal` as a public repo or alternatively a private repo.  
 
-*If private please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators*
+- Downloading and innitiallizing a new repo is preferable to forking as other candidates may see your public fork.  
+
+*If private repo please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators*
 
 
 
