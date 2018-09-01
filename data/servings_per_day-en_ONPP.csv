@@ -1,0 +1,65 @@
+fgid,gender,ages,servings
+vf,Female,2 to 3,4
+vf,Male,2 to 3 ,4
+vf,Female,4 to 8,5
+vf,Male,4 to 8,5
+vf,Female,9 to 13,6
+vf,Male,9 to 13,6
+vf,Female,14 to 18,7
+vf,Male,14 to 18,8
+vf,Female,19 to 30,7 to 8
+vf,Male,19 to 30,8 to 10
+vf,Female,31 to 50,7 to 8
+vf,Male,31 to 50,8 to 10
+vf,Female,51 to 70,7
+vf,Male,51 to 70,7
+vf,Female,71+,7
+vf,Male,71+,7
+gr,Female,2 to 3,3
+gr,Male,2 to 3,3
+gr,Female,4 to 8,4
+gr,Male,4 to 8,4
+gr,Female,9 to 13,6
+gr,Male,9 to 13,6
+gr,Female,14 to 18,6
+gr,Male,14 to 18,7
+gr,Female,19 to 30,6 to 7
+gr,Male,19 to 30,8
+gr,Female,31 to 50,6 to 7
+gr,Male,31 to 50,8
+gr,Female,51 to 70,6
+gr,Male,51 to 70,7
+gr,Female,71+,6
+gr,Male,71+,7
+mi,Female,2 to 3,2
+mi,Male,2 to 3,2
+mi,Female,4 to 8,2
+mi,Male,4 to 8,2
+mi,Female,9 to 13,3 to 4
+mi,Male,9 to 13,3 to 4
+mi,Female,14 to 18,3 to 4
+mi,Male,14 to 18,3 to 4
+mi,Female,19 to 30,2
+mi,Male,19 to 30,2
+mi,Female,31 to 50,2
+mi,Male,31 to 50,2
+mi,Female,51 to 70,3
+mi,Male,51 to 70,3
+mi,Female,71+,3
+mi,Male,71+,3
+me,Female,2 to 3,1
+me,Male,2 to 3,1
+me,Female,4 to 8,1
+me,Male,4 to 8,1
+me,Female,9 to 13,1 to 2
+me,Male,9 to 13,1 to 2
+me,Female,14 to 18,2
+me,Male,14 to 18,3
+me,Female,19 to 30,2
+me,Male,19 to 30,3
+me,Female,31 to 50,2
+me,Male,31 to 50,3
+me,Female,51 to 70,2
+me,Male,51 to 70,3
+me,Female,71+,2
+me,Male,71+,3

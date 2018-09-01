@@ -1,0 +1,10 @@
+fgid,foodgroup,fgcat_id,fgcat
+vf,Vegetables and Fruit,0,Non dark green or orange vegetable
+vf,Vegetables and Fruit,1,Dark green vegetable
+vf,Vegetables and Fruit,2,Orange vegetable
+gr,Grains,4,Non whole grain
+gr,Grains,3,Whole grain
+mi,Milk and Alternatives,5,Milk
+mi,Milk and Alternatives,6,Milk Alternataives
+me,Meat and Alternatives,7,Meat Alternatives
+me,Meat and Alternatives,8,"Meat, fish, poultry and shellfish"
