@@ -25,16 +25,16 @@ The roadmap includes adding preference and blacklist features and automatic week
 
 **User daily menu**
 
-*As a user  
+As a user  
 I want to see an optimal daily menu  
-so that I can improve my health*
+so that I can improve my health
 
 **Family daily menu**
 
-*As a family   
+As a family   
 I want to see an optimal daily menu for my family   
 And I want to a breakdown per family member  
-So that I can improve the health of my family*
+So that I can improve the health of my family
 
 # Data 
 
