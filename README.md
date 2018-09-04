@@ -19,7 +19,7 @@ We are looking for future team members to demonstrate their skill level.  Please
 
 # Features
 
-The Government of Canada wishes to provide the Canada Food Guide as an online service to improve the health of Canadians.  To test the idea an MVP was outlined by the product owner.  They are looking to adopt modern cloud-based methodologies to deploy a high-scale healthy eating API.  
+The Government of Canada wishes to provide the Canada Food Guide as an online service to improve the health of Canadians.  To test the idea an MVP was outlined by the product owner.  They are looking to adopt modern cloud-based methodologies to deploy a scalable healthy eating API.  
 
 The roadmap includes adding preference features and automatic weekly shopping lists with options to set up healthy grocery delivery via Amazon Prime (not in scope).  
 
@@ -48,7 +48,7 @@ A user interface is not required but is considered optional for candidates who w
 
 - Candidates are encouraged to provide these results on their personal Github profile `https://github.com/candidate/signal` as a public repo or alternatively a private repo.  
 
-- Downloading and innitiallizing a new repo is preferable to forking as other candidates may see your public fork.  
+- Downloading and initiallizing a new repo is preferable to forking as other candidates may see your public fork.  
 
 *If private repo please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators*
 
