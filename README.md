@@ -21,7 +21,7 @@ We are looking for future team members to demonstrate their skill level.  Please
 
 The Government of Canada wishes to provide the Canada Food Guide as an online service to improve the health of Canadians.  To test the idea an MVP was outlined by the product owner.  They are looking to adopt modern cloud-based methodologies to deploy a scalable healthy eating API.  
 
-The roadmap includes adding preference features and automatic weekly shopping lists with options to set up healthy grocery delivery via Amazon Prime (not in scope).  
+The roadmap includes adding preference features and automatic weekly shopping lists with options to set up healthy grocery delivery via Amazon Prime. This roadmap is out of scope for this project.
 
 **User daily menu**
 
@@ -33,7 +33,7 @@ so that I can improve my health
 
 As a family   
 I want to see an optimal daily menu for my family   
-And I want to a breakdown per family member  
+And I want a breakdown per family member  
 So that I can improve the health of my family
 
 # Data 
