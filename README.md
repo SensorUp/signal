@@ -42,7 +42,7 @@ Open data from the [Canada Food Guide](https://open.canada.ca/data/en/dataset/e5
 
 # Interface
 
-A user interface is not required but is considered optional for candidates who wish to demonstrate their client side superpowers.  
+A modern React interface is required and the key focus for front-end candidates.  
 
 # Submissions
 
