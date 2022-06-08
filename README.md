@@ -38,11 +38,16 @@ So that I can improve the health of my family
 
 # Data 
 
-Open data from the [Canada Food Guide](https://open.canada.ca/data/en/dataset/e5f4a98e-0ccf-4e5e-9912-d308b46c5a7f) is provided under the `/data` folder. 
+Data is provided under the `/data` folder. 
 
-# Interface
+# Expectations
 
-A modern React interface is required and the key focus for front-end candidates.  
+For frontend developers:
+- We expect you to use modern `React`, only functional components with hooks, no classes.
+- We expect your submission to be in ts/tsx.
+- We also expect you to use modern css and html. The resulting should be responsive.
+- We do not expect you to design and develop the API, load the CSV data directly and process the data on the client side is good enough. 
+
 
 # Submissions
 
@@ -50,7 +55,7 @@ A modern React interface is required and the key focus for front-end candidates.
 
 - Downloading and initiallizing a new repo is preferable to forking as other candidates may see your public fork.  
 
-*If private repo please add `jchang-sensorup`, `kanluo`, `liangsteve`, `thespencercox` as external collaborators*
+*If private repo please add `jack-sensorup` as external collaborators, if for frontend, please add `xwen-sensorup` as external collaborators*
 
 
 
